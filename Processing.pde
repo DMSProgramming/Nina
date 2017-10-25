@@ -3,7 +3,7 @@ void setup()
 
 {
 
-  size(800, 800);
+  size(400, 400);
 
   rectMode(CENTER_RADIUS);
 
